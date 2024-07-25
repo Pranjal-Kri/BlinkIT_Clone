@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Blinkit(user)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="blink">blink</string>
+    <string name="it">it</string>
+    <string name="india_s_last_minute_app">India\'s last minute app</string>
+    <string name="a_zomato_company">A Zomato COMPANY</string>
+    <string name="login_or_sign_up">Login or sign up</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="Continue">Continue</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="we_have_sent_verification_code_to">We have sent verification code to</string>
+    <string name="_91">+91</string>
+    <string name="login">Login</string>
+    <string name="loading">loading...</string>
+</resources>
